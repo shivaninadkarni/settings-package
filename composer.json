@@ -15,5 +15,12 @@
         "psr-4":{
             "IW\\Settings\\":"/src"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "IW\\Settings\\SettingsServiceProvider"
+            ]
+        }
     }
 }
