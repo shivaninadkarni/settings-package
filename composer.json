@@ -1,13 +1,15 @@
 {
     "name": "iw/settings",
     "description": "Settings for project",
-    "type": "project",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Shivani Nadkarni",
             "email": "shivani@imagin-works.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload":{
         "psr-4":{
