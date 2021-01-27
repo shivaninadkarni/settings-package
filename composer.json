@@ -1,0 +1,17 @@
+{
+    "name": "iw/settings",
+    "description": "Settings for project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Shivani Nadkarni",
+            "email": "shivani@imagin-works.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "IW\\Settings\\":"/src"
+        }
+    }
+}
